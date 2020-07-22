@@ -1,0 +1,8 @@
+{
+  "name": "foo-mjs-exp",
+  "version": "0.0.1",
+  "description": "Test for import",
+  "main": "lib/foo.mjs",
+  "author": "BugbearR",
+  "license": "CC0-1.0"
+}
